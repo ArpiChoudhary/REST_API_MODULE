@@ -1,0 +1,21 @@
+{ "School" : "St Joseph High School",
+  "Class":"9",
+  "City":"Bangalore",
+  "Students":[  { "ID":"1",
+                 "Name":"Arpita",
+                 "Age":"16"
+                },
+                { "ID":"2",
+                 "Name":"Kishor",
+                 "Age":"15"
+                },
+                { "ID":"3",
+                 "Name":"Aryan",
+                 "Age":"16"
+                },
+			    { "ID":"4",
+                 "Name":"Avyan",
+                 "Age":"15"
+                }
+             ]
+}
